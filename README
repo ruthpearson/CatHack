@@ -9,4 +9,9 @@ How to add your conda environment to jupyter notebook:
 https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
 
 
-test
+At the top level of my CatHack directory I have a /Data folder (which is in .gitignore so that data doesn;t get added to git).  I recommend putting the data in the relevant directory on your computers with the following structure so that we all match:
+
+/Data
+  big_cats
+  noah
+  vet_compass
