@@ -1,1 +1,9 @@
-Some instructions in here
+I am using python version 3.7.3 and conda with jupyter notebooks.  
+
+I have an environment called vetAI which I have provided the .yml file for.
+
+Export and Create conda environment:
+https://medium.com/@shandou/export-and-create-conda-environment-with-yml-5de619fe5a2
+
+How to add your conda environment to jupyter notebook:
+https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
